@@ -17,9 +17,9 @@ MerchantID  - Ваш MerchantID.
 UserMailToSendOperationReport - mail на который будут приходить уведомления.
 SendOneTransactionMail - вписать 0  если  слать на mail отчет по каждой транзакции не требуется.
 TypeFormat - вписать 0 если  требуется формат CSV  вписать 1  если требуется JSON.
-host -  пропишите  параметр host если от отличается от locallhost.
+host -  пропишите  параметр host если он отличается от locallhost.
 Delimiter - разделитель для CSV файла.
-ConvertToCp1251 -  введите 0 если требуется перекодировка в cp1251.
+ConvertToCp1251 -  введите 1 если требуется перекодировка в cp1251.
 ```
 
 ### Смена изображения.
